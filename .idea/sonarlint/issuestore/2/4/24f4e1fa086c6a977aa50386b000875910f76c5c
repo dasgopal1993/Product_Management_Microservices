@@ -1,0 +1,17 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(κζΔή8±φ εξ1
+o
+java:S6204#"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8΄φ εξ1
+o
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8¶φ εξ1
+o
+java:S62048"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8·φ εξ1
+o
+java:S6204>"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨Ή8Έφ εξ1
+M
+java:S1172P"0Remove this unused method parameter "throwable".(α©“8»φ εξ1
+R
+java:S1172j"0Remove this unused method parameter "productId".(ΓΦÿÿÿÿÿ8Ύφ εξ1
+z
+java:S1128"]Remove this unused import 'com.onlineshop.customerservice.exception.ProductServiceException'.(ΘΒμ•8Ώφ εξ1

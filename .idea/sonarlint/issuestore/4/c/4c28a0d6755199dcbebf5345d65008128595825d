@@ -1,0 +1,19 @@
+
+…
+java:S1488/"hImmediately return this expression instead of assigning it to the temporary variable "savedProductDtos".(şÏÑ»8šÇïÔî1
+…
+java:S1488„"gImmediately return this expression instead of assigning it to the temporary variable "savedProductDto".(ãñıõ8›ÇïÔî1
+m
+java:S3655d"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ğ¿°û8ÂÇïÔî1
+t
+java:S6204-"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(éÄ£üÿÿÿÿÿ8ÈÇïÔî1
+o
+java:S6204/"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(şÏÑ»8ÉÇïÔî1
+o
+java:S6204E"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(„¥ñ¥8ËÇïÔî1
+o
+java:S6204S"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8ÍÇïÔî1
+a
+java:S1172”">Remove these unused method parameters "category", "throwable".(Å™¨Øøÿÿÿÿ8ÔÇïÔî1
+O
+java:S1172®"1Remove this unused method parameter "sortOption".(ƒü¼ë8ÖÇïÔî1
